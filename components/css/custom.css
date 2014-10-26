@@ -1,5 +1,6 @@
-.navbar-brand:after {
+.logo {
 	content: '';
 	display: block; height: 40px; width: 70px;
-	background: url(components/img/ichikawa_logo.png) no-repeat 40px 70px;
+	background: url(components/img/ichikawa_logo.png) no-repeat 0 0;
+	
 }
