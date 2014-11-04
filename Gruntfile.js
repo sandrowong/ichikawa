@@ -20,7 +20,7 @@ module.exports = function(grunt) {
           cleancss: true
         },
         files: {
-          "build/css/style.min.css": ["components/less/bootstrap.less","components/css/jumbotron.css"]
+          "build/css/style.min.css": ["components/less/bootstrap.less","components/css/jumbotron.css","components/css/custom.css"]
         }
       }
     }
