@@ -1,4 +1,15 @@
-#logo-header {
- width: 225px;
- height: 39px;
+.navbar-brand img {
+	height: auto;
+	margin-top: -9px;
+	width: 100%;
+}
+
+.mobile-nav {
+	margin-top: 60px;
+	color: black;
+}
+
+.mobile-fav li{
+	display: inline;
+	list-style: none;
 }
