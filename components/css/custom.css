@@ -13,7 +13,20 @@
 .navbar-brand img {
 	height: auto;
 	margin-top: -20px;
+	margin-left: -10px;
 	width: 80%;
+}
+
+.main-logo {
+	width: 240px;
+	height: 64px;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	background: url('../img/ichikawa-logo.svg') no-repeat;
+	background-size: 100%;
+	margin-top: 11px;
+	margin-left: 5px;
 }
 
 .mobile-nav {
@@ -48,7 +61,7 @@
 }
 
 .navbar-nav > li:first-child {
-    margin-left: 50px;
+    margin-left: 130px;
 }
 
 .navbar-nav > li > a {
@@ -82,11 +95,22 @@
  }
 
 /* RESPONSIVE */
+
+@media (max-width: 1024px) {
+	.navbar-nav > li:first-child {
+   		margin-left: 50px;
+	}
+	.navbar-nav > li > a {
+    	margin-right: 50px;
+	}
+}
+
+
 @media (max-width: 768px) {
 	.navbar-nav > li:first-child {
-    margin-left: 0;
-}
-.navbar-nav > li > a {
-    margin-right: 0;
-}
+   		margin-left: 0;
+	}
+	.navbar-nav > li > a {
+    	margin-right: 0;
+	}
 }
