@@ -73,6 +73,6 @@
 		<div class="row">
 			<a style="display:block" href="#"><div class="col-xs-4 mobile-fav"><i class="fa fa-cutlery"></i><br> MENU</div></a>
 			<a style="display:block" href="#"><div class="col-xs-4 mobile-fav"><i class="fa fa-thumbs-o-up"></i><br> SOCIAL</div></a>
-			<a style="display:block" href="#"><div class="col-xs-4 mobile-fav"><i class="fa fa-location-arrow"></i><br> LOCATION</div></a>
+			<a style="display:block" href="https://www.google.com/maps/place/Ichi+Kawa/@33.9817661,-117.7023749,17z/data=!4m7!1m4!3m3!1s0x80dccd3b4a66067f:0xff160a6060411839!2s4665+Chino+Hills+Pkwy,+Chino+Hills,+CA+91709!3b1!3m1!1s0x0000000000000000:0x78bb4af4ca93c348"><div class="col-xs-4 mobile-fav"><i class="fa fa-location-arrow"></i><br> LOCATION</div></a>
 		</div>
 	</div>
