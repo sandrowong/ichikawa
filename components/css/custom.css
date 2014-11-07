@@ -49,7 +49,7 @@
 
 .mobile-fav i {
 	font-size: 2.8rem;
-	color: orange;	
+	color: orange;
 }
 
 .menu-feat {
@@ -107,7 +107,7 @@
 
 @media (max-width: 768px) {
 	.navbar-nav > li:first-child {
-   		margin-left: 0px;
+   		margin-left: 0;
 	}
 	.navbar-nav > li > a {
     	margin-right: 0;
