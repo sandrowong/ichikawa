@@ -64,15 +64,65 @@ body {
 
 .carousel-indicators {
   bottom:-45px;
+  
 }
 
 .carousel-indicators li {
   border-color:#000;
   background-color:#FFF;
+  width: 12px;
+  height: 12px;
 }
 
 .carousel-indicators .active {
   background-color: #000;
+}
+
+/* CAROUSEL CONTENT
+-------------------------------------------------- */
+
+.carousel-fade .carousel-inner .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+          transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+
+.item:nth-child(1) {
+  background: url("../img/slide1.jpg") #000 no-repeat center;
+  background-size: cover;
+    background-size: cover!important;
+    -moz-background-size: cover!important;
+    -webkit-background-size: cover!important;  
+}
+.item:nth-child(2) {
+  background: url("../img/slide2.jpg") #000 no-repeat center;
+    background-size: cover;
+    background-size: cover!important;
+    -moz-background-size: cover!important;
+    -webkit-background-size: cover!important;
+}
+.item:nth-child(3) {
+  background: url("../img/slide3.jpg") #000 no-repeat center;
+    background-size: cover;
+    background-size: cover!important;
+    -moz-background-size: cover!important;
+    -webkit-background-size: cover!important;
 }
 
 /* MARKETING CONTENT
@@ -96,7 +146,7 @@ body {
 ------------------------- */
 
 .featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -150,5 +200,12 @@ body {
 @media (max-width: 768px) {
   .carousel {
     margin-top: 0;
+    height: 300px;
+  }
+  .carousel .item {
+    height: 300px;
+  }
+  .carousel-inner > .item > img {
+    height: 300px;  
   }
 }

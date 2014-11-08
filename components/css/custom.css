@@ -55,7 +55,7 @@
 .menu-feat {
 	padding-top: 3%;
 	background: #F7F7F7;
-	background: hsl(0, 0%, 97%);	
+	background: hsl(0, 0%, 95%);	
 	border: 1px solid white;
 }
 
@@ -111,5 +111,11 @@
 	}
 	.navbar-nav > li > a {
     	margin-right: 0;
+	}
+}
+
+@media (max-width: 480px) {
+	.mobile-fav {
+		font-size: 1.5rem;
 	}
 }
