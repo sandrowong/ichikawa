@@ -1,13 +1,3 @@
-/* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
-
-body {
-  padding-bottom: 40px;
-  color: #5a5a5a;
-}
-
-
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
@@ -82,7 +72,7 @@ body {
 -------------------------------------------------- */
 
 .carousel-fade .carousel-inner .item {
-  opacity: 0;
+  opacity: 0.6;
   -webkit-transition-property: opacity;
           transition-property: opacity;
 }
@@ -106,23 +96,20 @@ body {
 .item:nth-child(1) {
   background: url("../img/slide1.jpg") #000 no-repeat center;
   background-size: cover;
-    background-size: cover!important;
-    -moz-background-size: cover!important;
-    -webkit-background-size: cover!important;  
+  -moz-background-size: cover!important;
+  -webkit-background-size: cover!important;  
 }
 .item:nth-child(2) {
   background: url("../img/slide2.jpg") #000 no-repeat center;
-    background-size: cover;
-    background-size: cover!important;
-    -moz-background-size: cover!important;
-    -webkit-background-size: cover!important;
+  background-size: cover;
+  -moz-background-size: cover!important;
+  -webkit-background-size: cover!important;
 }
 .item:nth-child(3) {
   background: url("../img/slide3.jpg") #000 no-repeat center;
-    background-size: cover;
-    background-size: cover!important;
-    -moz-background-size: cover!important;
-    -webkit-background-size: cover!important;
+  background-size: cover;
+  -moz-background-size: cover!important;
+  -webkit-background-size: cover!important;
 }
 
 /* MARKETING CONTENT
