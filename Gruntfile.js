@@ -20,7 +20,7 @@ module.exports = function(grunt) {
           cleancss: true
         },
         files: {
-          "build/css/style.min.css": ["components/less/bootstrap.less","components/css/carousel.css","components/css/custom.css"]
+          "build/css/style.min.css": ["components/less/bootstrap.less"] //,"components/css/custom.css"
         }
       }
     }
