@@ -91,10 +91,12 @@
   background-color:#FFF;
   width: 12px;
   height: 12px;
+  margin-left: 4px;
 }
 
 .carousel-indicators .active {
   background-color: #000;
+  margin-left: 4px;
 }
 
 /* CAROUSEL FADING EFFECT
@@ -261,7 +263,7 @@
     	margin-right: 0;
 	}
 }
-@media (max-width: 470px) {
+@media (max-width: 359px) {
 	.mobile-fav {
 		font-size: 1.5rem;
 	}
