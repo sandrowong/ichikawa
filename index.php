@@ -1,6 +1,4 @@
 <?PHP
-//I'll add options for us to dynamically change the meta data and title later on. -Aric
-
 $location = $_GET["l"];
 
 switch ($location) {
@@ -9,30 +7,30 @@ switch ($location) {
 		$metaKeywords = "";
 		$headTitle = " - Menu";
 		$menuActive = " class=\"active\"";
-		$body = "menu.php";
+		$body = "includes/menu.php";
 		break;
 	case "about":
 		$metaDescription = "";
 		$metaKeywords = "";	
 		$headTitle = " - About Ichikawa";
 		$aboutActive = " class=\"active\"";
-		$body = "about.php";
+		$body = "includes/about.php";
 		break;
 	case "contact":
 		$metaDescription = "";
 		$metaKeywords = "";	
 		$headTitle = " - Contact Us";	
 		$contactActive = " class=\"active\"";	
-		$body = "contact.php";
+		$body = "includes/contact.php";
 		break;
 	default:
 		$metaDescription = "";
 		$metaKeywords = "";	
 		$homeActive = " class=\"active\"";	
-		$body = "home.php";
+		$body = "includes/home.php";
 }
 
-include_once "header.php";
+include_once "includes/header.php";
 include_once $body;
-include_once "footer.php";
+include_once "includes/footer.php";
 ?>
