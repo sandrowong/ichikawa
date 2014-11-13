@@ -1,6 +1,13 @@
-    <div class="container marketing">   
-      <div class="starter-template" align="center">
-        <br><br><br><br><h1>About Us</h1><br><br><br><br>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
-      </div>
-	</div>
+    <section class="wrap container"> <!-- Container -->
+
+      <h1 class="main-underline">About Us</h1>
+        <p>Ichikawa Restaurant is a cozy restaurant with the objective to provide our customer “Great Food, Great Service, and Great Atmospheres!” </p>
+
+<p>We are proud to announce that we do not use monosodium glutamate (MSG) in any of our food and we select the finest quality USDA grades meats to serve our customers for the ultimate great food experience.  </p>
+
+<p>All of our employees have passed the California food handler exam and received the California food handlers certificate.  Henceforth, we know you are in good hands and enjoy our service with confidence. </p>
+
+<p>We have a semi open shabu bar to sociable customers who likes the accompany of our friendly server.  We have tables for customers that likes a little privacy but still enjoy the restaurant dining experiences. For customers who likes the dining outdoor experience, we also have a patio to fulfill that experience. For which groups of customers you belong to, Ichikawa Restaurant will try our best to provide you a great atmosphere for your dining experience. </p>
+	<hr class="featurette-divider">
+    <p class="pull-right"><a href="#home">Back to top <i class="fa fa-chevron-up"></i></a></p>
+    </section><!-- End of Container -->
