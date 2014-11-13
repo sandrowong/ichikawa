@@ -95,5 +95,7 @@
                     <p><button type="submit" class="btn-u">Send Message</button></p>
                   </form>
         </div>
-      </div>       
+      </div>
+    <hr class="featurette-divider">
+    <p class="pull-right"><a href="#home">Back to top <i class="fa fa-chevron-up"></i></a></p>
     </div>
