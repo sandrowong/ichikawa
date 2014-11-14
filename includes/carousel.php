@@ -9,9 +9,9 @@
       <div class="carousel-inner" role="listbox"> <!-- Slide Container -->
 
         <section class="item active"> <!-- slide1.jpg -->
-          <div class="container">
+          <div class="container hidden-xs">
             <div class="carousel-caption">
-              <h1>Ichikawa is specializing in Shabu Shabu &amp; Sushi . </h1>
+              <h1>Ichikawa is specializing in Shabu Shabu &amp; Sushi.</h1>
               <p>Ichikawa carries over 50 different dishes from our Shabu list &amp; Sushi menu.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button" data-toggle="modal" data-target="#myModal">Watch Video</a></p>
             </div>
