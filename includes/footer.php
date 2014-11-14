@@ -41,7 +41,7 @@
 
           <section class="col-lg-3 center"> <!-- Footer4 -->
             <h3 class="header-underline">Social Media</h3>
-              <img class="img-rounded" src="img/yelp.png" alt="Yelp" width="200px" height="200px">
+              <img class="img-rounded" src="img/yelp.png" alt="Yelp" width="180px" height="180px">
           </section><!-- Footer4 -->
 
         </div>      
