@@ -2,7 +2,7 @@
     ================================================== -->
     <div class="container">
       <hr class="featurette-divider">
-      <p class="pull-right"><a href="#home">Back to top <i class="fa fa-chevron-up"></i></a></p>
+      <p class="pull-right"><a href="#home">Back to top<i class="fa fa-chevron-up" style="margin-left: 1rem"></i></a></p>
     </div>
     <section class="footer">
       <div class="container">
@@ -11,10 +11,10 @@
           <section class="col-lg-3"> <!-- Footer1 -->
             <h3 class="header-underline">Site Map</h3>
             <ul>
-              <li class=""><a href="#">Home</a></li>
-              <li class=""><a href="#">Menu</a></li>
-              <li class=""><a href="#">About Ichikawa</a></li>
-              <li class=""><a href="#">Contact us</a></li>
+              <li class=""><a href="<? echo $_SERVER["PHP_SELF"];?>?l=home">Home</a></li>
+              <li class=""><a href="<? echo $_SERVER["PHP_SELF"];?>?l=menu">Menu</a></li>
+              <li class=""><a href="<? echo $_SERVER["PHP_SELF"];?>?l=about">About Ichikawa</a></li>
+              <li class=""><a href="<? echo $_SERVER["PHP_SELF"];?>?l=contact">Contact us</a></li>
             </ul>
           </section><!-- Footer1 -->
 
@@ -41,7 +41,7 @@
 
           <section class="col-lg-3 center"> <!-- Footer4 -->
             <h3 class="header-underline">Social Media</h3>
-              <img class="img-rounded" src="img/yelp.png" alt="Yelp" width="180px" height="180px">
+              <a href="http://www.yelp.com/biz/ichikawa-shabu-fondue-and-sushi-chino-hills" target="_blank"><img class="img-rounded" src="img/yelp.png" alt="Yelp" width="180px" height="180px"></a>
           </section><!-- Footer4 -->
 
         </div>      
