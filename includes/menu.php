@@ -1,14 +1,14 @@
     <section class="wrap container"> <!-- Container -->
 
       <h1 class="main-underline">The Menu</h1>
-
+      <p class="lead menu-info">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. <a href="ichikawa_menu.pdf" target="_blank">Download Menu</a></p>
       <section class="row featurette bg-feature1"> <!-- feature1.jpg -->
         <div class="col-md-7">
           <h2 class="featurette-heading">First featurette heading.</h2>
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="img/feature1.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="img/feature1.jpg" alt="Shabu">
         </div>        
       </section> <!-- End of feature1 -->
 
@@ -16,7 +16,7 @@
 
       <section class="row featurette bg-feature2"> <!-- feature2.jpg -->
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="img/feature2.jpg" alt="Dine for two">
+          <img class="featurette-image img-responsive" src="img/menu/sushi1.jpg" alt="Sushi">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Oh yeah</h2>
@@ -25,5 +25,15 @@
       </section> <!-- End of feature2 -->
 
       <hr class="featurette-divider">
-    <p class="pull-right"><a href="#home">Back to top <i class="fa fa-chevron-up"></i></a></p>
+
+      <section class="row featurette bg-feature3"> <!-- feature3.jpg -->
+        <div class="col-md-7">
+          <h2 class="featurette-heading">First featurette heading.</h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="img/menu/dessert1.jpg" alt="Dessert">
+        </div>        
+      </section> <!-- End of feature1 -->
+
     </section><!-- End of Container -->

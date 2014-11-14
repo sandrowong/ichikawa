@@ -209,7 +209,7 @@
 	width: 100%;
 	height: auto;
   background: #F7F7F7;
-  background: hsl(0, 0%, 85%); 
+  background: hsl(0, 0%, 92%); 
   padding-bottom: 5px;
 }
 
@@ -237,20 +237,35 @@ border-bottom: 3px solid #bdb7a4;
     margin-right: auto;
 }
 
-/* MENU PAGE 
+/* PAGES 
 ------------------------- */
 .wrap { 
   margin-top: 83px;
  }
 
- .wrap h1 { 
-  text-align: center;
-  padding-bottom: 1rem;
+ .wrap h1 {
+   padding-bottom: 1rem;
  }
 
 .main-underline {
   border-bottom: 3px solid brown;
+  text-align: center;
   margin-bottom: 4rem;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.menu-info {
+  text-align: center; 
+  margin-bottom:4rem;
+}
+
+.bg-about {
+  background: url("../img/ichikawa.jpg") no-repeat center;
+  margin-bottom: 4rem;
+  height: 350px;
+  background-size: cover!important;
+  -moz-background-size: cover!important;
+  -webkit-background-size: cover!important;
 }
 
 /* RESPONSIVE STYLE 

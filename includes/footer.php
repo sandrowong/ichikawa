@@ -1,13 +1,9 @@
-
-
-
-
-<!----------------------->  
-<!----Begin of FOOTER---->
-<!----------------------->  
-
     <!-- FOOTER
     ================================================== -->
+    <div class="container">
+      <hr class="featurette-divider">
+      <p class="pull-right"><a href="#home">Back to top <i class="fa fa-chevron-up"></i></a></p>
+    </div>
     <section class="footer">
       <div class="container">
         <div class="row">
@@ -45,7 +41,7 @@
 
           <section class="col-lg-3 center"> <!-- Footer4 -->
             <h3 class="header-underline">Social Media</h3>
-              <img src="img/yelp.png" alt="Yelp" width="200px" height="200px">
+              <img class="img-rounded" src="img/yelp.png" alt="Yelp" width="200px" height="200px">
           </section><!-- Footer4 -->
 
         </div>      

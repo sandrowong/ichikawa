@@ -68,34 +68,9 @@
         </div>
         <!-- Contact Form -->
         <div class="col-md-7">
-                <div><h2>Send Us A Message!</h2></div>
-                <p>Feel free to contact us with any questions! ....etc..etc</p><br/>
-                <form>
-                    <label>Name</label>
-                    <div class="row">
-                        <div class="col-md-7 col-md-offset-0">
-                            <input type="text" class="form-control">
-                        </div>                
-                    
-                    </div>
-                    <label>Email</label>
-                    <div class="row">
-                        <div class="col-md-7 col-md-offset-0">
-                            <input type="text" class="form-control">
-                        </div>                
-                    </div>
-                    
-                    <label>Message</label>
-                    <div class="row">
-                        <div class="col-md-11 col-md-offset-0">
-                            <textarea rows="8" class="form-control"></textarea>
-                        </div>                
-                    </div>
-                    
-                    <p><button type="submit" class="btn-u">Send Message</button></p>
-                  </form>
+                <div><h2>Employment Opportunities</h2></div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam maxime culpa, eaque. Quos, fugit quas nisi quibusdam reprehenderit. </p><br/>
+                <p>Download Form</p>
         </div>
       </div>
-    <hr class="featurette-divider">
-    <p class="pull-right"><a href="#home">Back to top <i class="fa fa-chevron-up"></i></a></p>
     </div>
