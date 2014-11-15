@@ -7,13 +7,13 @@
         <h4 class="modal-title" id="myModalLabel">Ichikawa - Fusion Shabu &amp; Sushi</h4>
       </div>
       <div class="modal-body" style="text-align: center">
-        <video width="550" controls>
+        <video id="ichikawa-video" width="550" controls>
           <source src="video.mp4" type="video/mp4">
           Your browser does not support HTML5 video.
         </video>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-default closeModal" data-dismiss="modal">Close</button>
       </div>
     </section>
   </div>

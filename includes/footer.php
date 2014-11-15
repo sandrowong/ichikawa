@@ -53,5 +53,10 @@
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/smooth.js"></script>
+    <script>
+      $('.closeModal').click(function () {
+        $("#ichikawa-video")[0].pause();
+      });
+    </script>
   </body>
 </html>
