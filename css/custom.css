@@ -233,9 +233,7 @@ border-bottom: 3px solid #bdb7a4;
 
 .center img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2rem;
+    margin: 2rem auto 1rem auto;
 }
 
 /* PAGES 
@@ -263,10 +261,10 @@ border-bottom: 3px solid #bdb7a4;
 .bg-about {
   background: url("../img/ichikawa.jpg") no-repeat center;
   margin-bottom: 4rem;
-  height: 350px;
-  background-size: cover!important;
-  -moz-background-size: cover!important;
-  -webkit-background-size: cover!important;
+  height: 35rem;
+  background-size: cover !important;
+  -moz-background-size: cover !important;
+  -webkit-background-size: cover !important;
 }
 
 /* RESPONSIVE STYLE 
@@ -303,6 +301,9 @@ border-bottom: 3px solid #bdb7a4;
   }
   .wrap {
     margin-top: 0;
+  }
+  .bg-about {
+  background: url("../img/ichikawa.jpg") no-repeat -500px;
   }
 }
 
