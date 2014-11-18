@@ -125,7 +125,7 @@
 }
 
 .item:nth-child(1) {
-  background: url("../img/slide1.jpg") no-repeat center;
+  background: url("../img/feature01.jpg") no-repeat center;
   background-size: cover!important;
   -moz-background-size: cover!important;
   -webkit-background-size: cover!important;  
@@ -162,6 +162,7 @@
   margin-right: 10px;
   margin-left: 10px;
 }
+
 .mark-box {
 	padding-top: 3%;
 	background: #F7F7F7;
@@ -169,6 +170,7 @@
 	border: 1px solid white;
 }
 
+.mark-box a:link, .mark-box a:visited, .mark-box a:hover, .mark-box a:active { color:#333; text-decoration: none; }
 
 /* FEATURE STYLE
 ------------------------- */
@@ -188,6 +190,22 @@
   height: 100%;
   padding: 1rem 0;
  }
+
+.bg-feature0 {
+  background: url("../img/feature0.jpg") no-repeat center;
+  background-size: cover!important;
+  -moz-background-size: cover!important;
+  -webkit-background-size: cover!important;*/
+}
+
+.feature-text {
+  text-align: center; 
+}
+
+.feature-text h2{
+  font-size: 3rem; 
+  margin-top: 20rem;
+}
 
 .bg-feature1 {
 	background: #AA5047;
@@ -212,8 +230,12 @@
   background: #A65F19;
 }
 
-.bg-menu1 {
-  background: #999;
+.ichi-play {
+  color: #FFF; 
+  margin-right: 1rem; 
+  font-size: 3rem; 
+  vertical-align: middle; 
+  line-height: 1px
 }
 
  /* FOOTER STYLE
@@ -247,6 +269,10 @@ border-bottom: 3px solid #bdb7a4;
 .center img {
     display: block;
     margin: 2rem auto 1rem auto;
+}
+
+.toes p {
+  margin: 2px 0;
 }
 
 /* PAGES 
@@ -286,6 +312,11 @@ border-bottom: 3px solid #bdb7a4;
 
 .menu-list li {
    list-style: none;
+}
+
+/* Contact */
+.table td:nth-child(2) {
+  font-weight: 600;
 }
 
 /* RESPONSIVE STYLE 

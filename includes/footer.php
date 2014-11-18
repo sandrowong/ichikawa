@@ -35,8 +35,8 @@
           <section class="col-lg-3"> <!-- Footer3 -->
             <h3 class="header-underline">Address</h3>
             <p>Ichikawa Fusion Shabu &amp; Sushi<br>
-               4665 Chino Hills Pkwy, Chino Hills, CA 91709<br>
-               (909) 606-0080</p>
+            4665 Chino Hills Pkwy, Chino Hills, CA 91709</p>
+            <p><a href="tel:909-606-0080">(909) 606-0080</a></p>
           </section><!-- Footer3 -->
 
           <section class="col-lg-3 center"> <!-- Footer4 -->
@@ -47,6 +47,11 @@
         </div>      
       </div>
     </section>
+    <!--Copyright-->
+    <div class="container toes">
+        <p class="pull-right">Created by Team Alpha.</p>
+        <p>&copy; <?php echo date("Y")?> Ichikawa Shabu.</p>
+    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

@@ -9,13 +9,8 @@
       </ol> <!-- End of Indicators -->
       <div class="carousel-inner" role="listbox"> <!-- Slide Container -->
 
+
         <section class="item active"> <!-- slide1.jpg -->
-          <div class="container hidden-xs">
-            <div class="carousel-caption">
-              <h2>Ichikawa carries over 50 different dishes from our Shabu list &amp; Sushi menu.</h2><br>
-              <p><a class="btn btn-lg btn-primary startVideo" href="#" role="button" data-toggle="modal" data-target="#myModal" data-backdrop="static"><span style="color: #FFF; margin-right: 1rem; font-size: 3rem; vertical-align: middle; line-height: 1px"><i class="fa fa-play-circle-o"></i></span><span style="vertical-align: middle">Watch Video</span></a></p>
-            </div>
-          </div>
         </section> <!-- End of slide1 -->
 
         <section class="item"> <!-- slide2.jpg -->

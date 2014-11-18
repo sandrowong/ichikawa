@@ -7,7 +7,7 @@
         <h4 class="modal-title" id="myModalLabel">Ichikawa - Fusion Shabu &amp; Sushi</h4>
       </div>
       <div class="modal-body" style="text-align: center">
-        <video id="ichikawa-video" width="550" controls>
+        <video id="ichikawa-video" width="100%" controls>
           <source src="video.mp4" type="video/mp4">
           Your browser does not support HTML5 video.
         </video>

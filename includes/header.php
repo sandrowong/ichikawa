@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="<? echo $metaDescription; ?>">
     <meta name="keywords" content="<? echo $metaKeywords; ?>">
     <meta name="author" content="Team Alpha">
@@ -59,7 +59,7 @@
     <section class="container-fluid mobile-nav visible-xs-block">  <!-- Mobile Blocks -->
       <div class="row">
         <a style="display:block" href="<? echo $_SERVER["PHP_SELF"];?>?l=menu"><div class="col-xs-4 mobile-fav"><i class="fa fa-cutlery"></i><br> MENU</div></a>
-        <a style="display:block" href="http://www.yelp.com/biz/ichikawa-shabu-fondue-and-sushi-chino-hills" target="_blank"><div class="col-xs-4 mobile-fav"><i class="fa fa-thumbs-o-up"></i><br> SOCIAL</div></a>
+        <a style="display:block" href="http://www.yelp.com/biz/ichikawa-shabu-fondue-and-sushi-chino-hills" target="_blank"><div class="col-xs-4 mobile-fav"><i class="fa fa-yelp"></i><br> YELP</div></a>
         <a style="display:block" href="https://www.google.com/maps/place/Ichi+Kawa/@33.9817661,-117.7023749,17z/data=!4m7!1m4!3m3!1s0x80dccd3b4a66067f:0xff160a6060411839!2s4665+Chino+Hills+Pkwy,+Chino+Hills,+CA+91709!3b1!3m1!1s0x0000000000000000:0x78bb4af4ca93c348"><div class="col-xs-4 mobile-fav"><i class="fa fa-location-arrow"></i><br> LOCATION</div></a>
       </div>
     </section> <!-- End of Mobile Blocks -->

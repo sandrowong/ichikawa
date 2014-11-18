@@ -44,7 +44,7 @@
     <div class="container">   
       <div class="row">
         <!-- Restaurant Info -->
-        <div class="col-md-5">
+        <div class="col-md-6">
             <div><h2>Our Address</h2></div>
               <ul class="list-unstyled">
                   <li><a href="https://www.google.com/maps/dir//Ichi+Kawa,+4665+Chino+Hills+Pkwy,+Chino+Hills,+CA+91709/@33.982091,-117.702316,17z/data=!4m12!1m3!3m2!1s0x80dccd3b2f214977:0x78bb4af4ca93c348!2sIchi+Kawa!4m7!1m0!1m5!1m1!1s0x80dccd3b2f214977:0x78bb4af4ca93c348!2m2!1d-117.702316!2d33.982091">
@@ -66,34 +66,85 @@
                 <li><strong>Sunday:</strong> 2:30pm to 9:00pm</li><br>
               </ul>
         </div>
-        <!-- Contact Form -->
-        <div class="col-md-7 mb-margin-bottom-30">
-                <div class="headline"><h2>Send Us A Message!</h2></div>
-                <p>Feel free to contact us with any questions!</p><br/>
-                <form>
-                    <label>Name</label>
-                    <div class="row margin-bottom-20">
-                        <div class="col-md-7 col-md-offset-0">
-                            <input type="text" class="form-control">
-                        </div>                
-                    
-                    </div>
-                    <label>Email</label>
-                    <div class="row margin-bottom-20">
-                        <div class="col-md-7 col-md-offset-0">
-                            <input type="text" class="form-control">
-                        </div>                
-                    </div>
-                    
-                    <label>Message</label>
-                    <div class="row margin-bottom-20">
-                        <div class="col-md-11 col-md-offset-0">
-                            <textarea rows="8" class="form-control"></textarea>
-                        </div>                
-                    </div>
-                    
-                    <p><button type="submit" class="btn-u">Send Message</button></p>
-                  </form>
+
+        <div class="col-md-6">
+            <h2>Business info</h2>
+            <table class="table table-hover table-condensed">
+              <tbody>
+                <tr>
+                    <td>Takes Reservations</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Delivery</td> 
+                    <td>No</td>
+                </tr>
+                <tr>
+                    <td>Take-out</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Accepts Credit Cards</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Good For</td> 
+                    <td>Dinner</td>
+                </tr>
+                <tr>
+                    <td>Parking</td> 
+                    <td>Private Lot</td>
+                </tr>
+                <tr>
+                    <td>Bike Parking</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Good for Kids</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Good for Groups</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Attire</td> 
+                    <td>Casual</td>
+                </tr>
+                <tr>
+                    <td>Ambience</td> 
+                    <td>Casual</td>
+                </tr>
+                <tr>
+                    <td>Noise Level</td> 
+                    <td>Average</td>
+                </tr>
+                <tr>
+                    <td>Alcohol</td> 
+                    <td>Beer &amp; Wine Only</td>
+                </tr>
+                <tr>
+                    <td>Outdoor Seating</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Wi-Fi</td> 
+                    <td>No</td>
+                </tr>
+                <tr>
+                    <td>Has TV</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Waiter Service</td> 
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Caters</td> 
+                    <td>No</td>
+                </tr>
+              <tbody>              
+            </table>            
         </div>
       </div>
     </div>
