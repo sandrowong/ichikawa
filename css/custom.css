@@ -23,6 +23,16 @@
 	margin-left: 5px;
 }
 
+.main-logo-b {
+  width: 185px;
+  height: 50px;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  background: url('../img/ichikawa-logo-b.png') no-repeat;
+  background-size: 100%;
+}
+
 .mobile-nav {
 	margin-top: 83px;
 	margin-bottom: 2px;

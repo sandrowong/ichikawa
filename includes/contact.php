@@ -51,7 +51,7 @@
                     <strong>Ichikawa Fusion Shabu & Sushi</strong></a></li>
                   <li><a href="https://www.google.com/maps/dir//Ichi+Kawa,+4665+Chino+Hills+Pkwy,+Chino+Hills,+CA+91709/@33.982091,-117.702316,17z/data=!4m12!1m3!3m2!1s0x80dccd3b2f214977:0x78bb4af4ca93c348!2sIchi+Kawa!4m7!1m0!1m5!1m1!1s0x80dccd3b2f214977:0x78bb4af4ca93c348!2m2!1d-117.702316!2d33.982091">
                         4665 Chino Hills Pkwy, Chino Hills, CA 91709</a></li>
-                  <li>(909) 606-0080</li>
+                  <li><a href="tel:909-606-0080">(909) 606-0080</a></li>
               </ul>
 
             <div><h2>Hours of Operation</h2></div>

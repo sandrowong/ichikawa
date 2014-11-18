@@ -1,7 +1,7 @@
     <section class="wrap container"> <!-- Container -->
 
       <h1 class="main-underline">The Menu</h1>
-      <p class="lead menu-info">We've listed our most popular items below. You may download our full menu with prices here. <br><a href="<? echo $_SERVER["PHP_SELF"];?>?l=jpegmenu">Online Menu (html)</a> | <a href="ichikawa_menu.pdf" target="_blank">Downloadable Menu (pdf)</a></p>
+      <p class="lead menu-info">We've listed our most popular items below. You may download our full menu with prices here. <br><a href="<? echo $_SERVER["PHP_SELF"];?>?l=jpegmenu">Online Menu (html)</a> | <a href="ichikawa_menu.pdf" target="_blank">Download Menu (pdf)</a></p>
       
       <section class="row featurette bg-feature1"> <!-- menu1 -->
 	    <div class="col-md-5">

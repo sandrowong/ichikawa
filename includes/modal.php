@@ -4,7 +4,8 @@
     <section class="modal-content">
       <div class="modal-header">
         <button type="button" class="close closeModal" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" id="myModalLabel">Ichikawa - Fusion Shabu &amp; Sushi</h4>
+        <!-- <h4 class="modal-title" id="myModalLabel">Ichikawa - Fusion Shabu &amp; Sushi</h4> -->
+        <h4 class="modal-title main-logo-b" id="myModalLabel"></h4>
       </div>
       <div class="modal-body" style="text-align: center">
         <video id="ichikawa-video" width="100%" controls>
