@@ -9,6 +9,13 @@ switch ($location) {
 		$menuActive = " class=\"active\"";
 		$body = "includes/menu.php";
 		break;
+	case "jpegmenu":
+		$metaDescription = "";
+		$metaKeywords = "";
+		$headTitle = " - Menu";
+		$menuActive = " class=\"active\"";
+		$body = "includes/jpegmenu.php";
+		break;				
 	case "about":
 		$metaDescription = "";
 		$metaKeywords = "";	
