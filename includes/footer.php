@@ -54,16 +54,10 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/smooth.js"></script>
     <script>
-<<<<<<< HEAD
-<<<<<<< HEAD
       $("#ichikawa-video").prop("volume", 0.3);
-=======
->>>>>>> parent of 0b36dea... Website as of Sprint 2
       $('.startVideo').click(function () {
         $("#ichikawa-video")[0].play();
       });   
-=======
->>>>>>> parent of 3d7ad83... added favicon and edited style
       $('.closeModal').click(function () {
         $("#ichikawa-video")[0].pause();
       });
