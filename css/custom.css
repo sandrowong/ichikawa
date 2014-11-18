@@ -142,7 +142,12 @@
   -moz-background-size: cover!important;
   -webkit-background-size: cover!important;
 }
-
+.item:nth-child(4) {
+  background: url("../img/slide4.jpg") no-repeat center;
+  background-size: cover!important;
+  -moz-background-size: cover!important;
+  -webkit-background-size: cover!important;
+}
 /* MARKETING STYLE
 ------------------------- */
 /* Center align the text within the three columns below the carousel */
@@ -185,7 +190,7 @@
  }
 
 .bg-feature1 {
-	background: #999;
+	background: #AA5047;
 }
 
 .bg-feature2 {
@@ -201,6 +206,14 @@
 	background-position: 0px -370px;
 	background-size: 100%;*/
 	background: #682347;
+}
+
+.bg-feature4 {
+  background: #A65F19;
+}
+
+.bg-menu1 {
+  background: #999;
 }
 
  /* FOOTER STYLE
@@ -233,9 +246,7 @@ border-bottom: 3px solid #bdb7a4;
 
 .center img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2rem;
+    margin: 2rem auto 1rem auto;
 }
 
 /* PAGES 
@@ -263,10 +274,18 @@ border-bottom: 3px solid #bdb7a4;
 .bg-about {
   background: url("../img/ichikawa.jpg") no-repeat center;
   margin-bottom: 4rem;
-  height: 350px;
-  background-size: cover!important;
-  -moz-background-size: cover!important;
-  -webkit-background-size: cover!important;
+  height: 35rem;
+  background-size: cover !important;
+  -moz-background-size: cover !important;
+  -webkit-background-size: cover !important;
+}
+
+.menu-list {
+  padding: 0;
+}
+
+.menu-list li {
+   list-style: none;
 }
 
 /* RESPONSIVE STYLE 
@@ -304,6 +323,9 @@ border-bottom: 3px solid #bdb7a4;
   .wrap {
     margin-top: 0;
   }
+  .bg-about {
+  background: url("../img/ichikawa.jpg") no-repeat -500px;
+  }
 }
 
 @media (max-width: 1024px) {
@@ -326,4 +348,9 @@ border-bottom: 3px solid #bdb7a4;
 	.mobile-fav {
 		font-size: 1.5rem;
 	}
+}
+@media (min-width: 992px) {
+  .menu-heading {
+    margin-top: 0px;
+  }
 }

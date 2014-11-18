@@ -5,6 +5,7 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>        
       </ol> <!-- End of Indicators -->
       <div class="carousel-inner" role="listbox"> <!-- Slide Container -->
 
@@ -21,8 +22,10 @@
         </section> <!-- End of slide2 -->
 
         <section class="item"> <!-- slide3.jpg -->
-
         </section> <!-- End of slide3 -->
+
+        <section class="item"> <!-- slide4.jpg -->
+        </section> <!-- End of slide4 -->        
 
       </div><!-- End of Slide Container -->
       <!-- Carousel Controls -->
