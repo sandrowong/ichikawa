@@ -7,7 +7,7 @@
     <meta name="description" content="<? echo $metaDescription; ?>">
     <meta name="keywords" content="<? echo $metaKeywords; ?>">
     <meta name="author" content="Team Alpha">
-    <link rel="icon" href="img/favicon.ico">
+    <link rel="icon" href="../../favicon.ico">
     <link href='http://fonts.googleapis.com/css?family=Oxygen:400,700,300' rel='stylesheet' type='text/css'>
     <link href="css/font-awesome.min.css" rel="stylesheet">    
 
