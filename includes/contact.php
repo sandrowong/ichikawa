@@ -6,7 +6,7 @@
       #map_canvas {
         width: auto;
         height: 400px; 
-        margin-top: 86px;
+        margin-top: 80px;
       }
     </style>
     <script>
