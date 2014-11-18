@@ -142,12 +142,7 @@
   -moz-background-size: cover!important;
   -webkit-background-size: cover!important;
 }
-.item:nth-child(4) {
-  background: url("../img/slide4.jpg") no-repeat center;
-  background-size: cover!important;
-  -moz-background-size: cover!important;
-  -webkit-background-size: cover!important;
-}
+
 /* MARKETING STYLE
 ------------------------- */
 /* Center align the text within the three columns below the carousel */
@@ -190,7 +185,7 @@
  }
 
 .bg-feature1 {
-	background: #AA5047;
+	background: #999;
 }
 
 .bg-feature2 {
@@ -206,14 +201,6 @@
 	background-position: 0px -370px;
 	background-size: 100%;*/
 	background: #682347;
-}
-
-.bg-feature4 {
-  background: #A65F19;
-}
-
-.bg-menu1 {
-  background: #999;
 }
 
  /* FOOTER STYLE
@@ -282,14 +269,6 @@ border-bottom: 3px solid #bdb7a4;
   -webkit-background-size: cover!important;
 }
 
-.menu-list {
-  padding: 0;
-}
-
-.menu-list li {
-   list-style: none;
-}
-
 /* RESPONSIVE STYLE 
 ------------------------- */
 @media (min-width: 768px) {
@@ -347,9 +326,4 @@ border-bottom: 3px solid #bdb7a4;
 	.mobile-fav {
 		font-size: 1.5rem;
 	}
-}
-@media (min-width: 992px) {
-  .menu-heading {
-    margin-top: 0px;
-  }
 }

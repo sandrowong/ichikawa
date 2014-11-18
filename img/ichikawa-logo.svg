@@ -2,10 +2,7 @@
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 217.7 57.5" enable-background="new 0 0 217.7 57.5" xml:space="preserve"> 
-<defs>
-  <style type="text/css">@import url(http://fonts.googleapis.com/css?family=Oxygen);</style>
-</defs>
+	 viewBox="0 0 217.7 57.5" enable-background="new 0 0 217.7 57.5" xml:space="preserve">
 <path fill="#5BA566" stroke="#78CE82" stroke-width="2" stroke-miterlimit="10" d="M21.8,22.9H3.3h2.9c0,6.8,7,12.2,15.6,12.2
 	s15.6-5.5,15.6-12.2h2.9H21.8z"/>
 <rect x="19.3" y="14.1" fill="#E59A23" width="2.5" height="2.5"/>
@@ -37,5 +34,5 @@
 		c0,0-14.1-1.5-13.9,7.9c0.2,9.4,14.7,5.6,15,4.3v1.8h5v-12C214.3,18.5,214.1,12.9,204.7,12.9z M199.1,30c1.5-4.4,9.2-2.9,9.2-2.9
 		C209,34.4,197.7,34.3,199.1,30z"/>
 </g>
-<text transform="matrix(1 0 0 1 47.3697 54.1031)" fill="#FFFFFF" font-family="'Oxygen'" font-size="14">fusion shabu &amp; sushi</text>
+<text transform="matrix(1 0 0 1 47.3697 54.1031)" fill="#FFFFFF" font-family="'Oxygen-Regular'" font-size="14">fusion shabu &amp; sushi</text>
 </svg>

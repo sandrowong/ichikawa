@@ -1,10 +1,0 @@
-[10-Nov-2014 07:47:37 UTC] PHP Warning:  include_once(includes\header.php): failed to open stream: No such file or directory in /home/ichikawa/public_html/alphas/aric/index.php on line 35
-[10-Nov-2014 07:47:37 UTC] PHP Warning:  include_once(): Failed opening 'includes\header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ichikawa/public_html/alphas/aric/index.php on line 35
-[10-Nov-2014 07:47:37 UTC] PHP Warning:  include_once(includes\home.php): failed to open stream: No such file or directory in /home/ichikawa/public_html/alphas/aric/index.php on line 36
-[10-Nov-2014 07:47:37 UTC] PHP Warning:  include_once(): Failed opening 'includes\home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ichikawa/public_html/alphas/aric/index.php on line 36
-[10-Nov-2014 07:47:37 UTC] PHP Warning:  include_once(includesooter.php): failed to open stream: No such file or directory in /home/ichikawa/public_html/alphas/aric/index.php on line 37
-[10-Nov-2014 07:47:37 UTC] PHP Warning:  include_once(): Failed opening 'includesooter.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ichikawa/public_html/alphas/aric/index.php on line 37
-[10-Nov-2014 07:48:28 UTC] PHP Warning:  include_once(menu.php): failed to open stream: No such file or directory in /home/ichikawa/public_html/alphas/aric/index.php on line 36
-[10-Nov-2014 07:48:28 UTC] PHP Warning:  include_once(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ichikawa/public_html/alphas/aric/index.php on line 36
-[10-Nov-2014 07:48:35 UTC] PHP Warning:  include_once(menu.php): failed to open stream: No such file or directory in /home/ichikawa/public_html/alphas/aric/index.php on line 36
-[10-Nov-2014 07:48:35 UTC] PHP Warning:  include_once(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ichikawa/public_html/alphas/aric/index.php on line 36
