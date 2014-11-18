@@ -54,6 +54,7 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/smooth.js"></script>
     <script>
+      $("#ichikawa-video").prop("volume", 0.3);
       $('.startVideo').click(function () {
         $("#ichikawa-video")[0].play();
       });   
