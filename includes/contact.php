@@ -143,7 +143,7 @@
                     <td>Caters</td> 
                     <td>No</td>
                 </tr>
-              <tbody>              
+              </tbody>              
             </table>            
         </div>
       </div>
