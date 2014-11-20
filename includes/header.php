@@ -42,14 +42,14 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button> 
-            <a class="main-logo pull-left" href="<? echo $_SERVER["PHP_SELF"];?>?l=home"></a> <!-- Ichikawa Logo in CSS -->
+            <a class="main-logo pull-left" href="http://<? echo $_SERVER["HTTP_HOST"];?>"></a> <!-- Ichikawa Logo in CSS -->
           </section> <!-- End of Hamburger Menu -->
           <div id="navbar" class="navbar-collapse collapse"> <!-- Navbar Links -->
             <ul class="nav navbar-nav nav-custom">
-              <li<? echo $homeActive;?>><a href="<? echo $_SERVER["PHP_SELF"];?>?l=home">Home</a></li>
-              <li<? echo $menuActive;?>><a href="<? echo $_SERVER["PHP_SELF"];?>?l=menu">Menu</a></li>
-              <li<? echo $aboutActive;?>><a href="<? echo $_SERVER["PHP_SELF"];?>?l=about">About Ichikawa</a></li>
-              <li<? echo $contactActive;?>><a href="<? echo $_SERVER["PHP_SELF"];?>?l=contact">Contact us</a></li>
+              <li<? echo $homeActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/home">Home</a></li>
+              <li<? echo $menuActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/menu">Menu</a></li>
+              <li<? echo $aboutActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/about">About Ichikawa</a></li>
+              <li<? echo $contactActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/contact">Contact us</a></li>
             </ul>
           </div> <!-- End of Navbar Links -->
         </div> <!-- End Container -->

@@ -11,10 +11,10 @@
           <section class="col-lg-3"> <!-- Footer1 -->
             <h3 class="header-underline">Site Map</h3>
             <ul>
-              <li class=""><a href="<? echo $_SERVER["PHP_SELF"];?>?l=home">Home</a></li>
-              <li class=""><a href="<? echo $_SERVER["PHP_SELF"];?>?l=menu">Menu</a></li>
-              <li class=""><a href="<? echo $_SERVER["PHP_SELF"];?>?l=about">About Ichikawa</a></li>
-              <li class=""><a href="<? echo $_SERVER["PHP_SELF"];?>?l=contact">Contact us</a></li>
+              <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/home">Home</a></li>
+              <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/menu">Menu</a></li>
+              <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/about">About Ichikawa</a></li>
+              <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/contact">Contact us</a></li>
             </ul>
           </section><!-- Footer1 -->
 
