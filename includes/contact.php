@@ -50,7 +50,7 @@
                   <li><a href="https://www.google.com/maps/dir//Ichi+Kawa,+4665+Chino+Hills+Pkwy,+Chino+Hills,+CA+91709/@33.982091,-117.702316,17z/data=!4m12!1m3!3m2!1s0x80dccd3b2f214977:0x78bb4af4ca93c348!2sIchi+Kawa!4m7!1m0!1m5!1m1!1s0x80dccd3b2f214977:0x78bb4af4ca93c348!2m2!1d-117.702316!2d33.982091">
                     <strong>Ichikawa Fusion Shabu & Sushi</strong></a></li>
                   <li><a href="https://www.google.com/maps/dir//Ichi+Kawa,+4665+Chino+Hills+Pkwy,+Chino+Hills,+CA+91709/@33.982091,-117.702316,17z/data=!4m12!1m3!3m2!1s0x80dccd3b2f214977:0x78bb4af4ca93c348!2sIchi+Kawa!4m7!1m0!1m5!1m1!1s0x80dccd3b2f214977:0x78bb4af4ca93c348!2m2!1d-117.702316!2d33.982091">
-                        4665 Chino Hills Pkwy, Chino Hills, CA 91709</a></li><br>
+                        4665 Chino Hills Pkwy, Chino Hills, CA 91709</a></li>
                   <li><a href="tel:909-606-0080">(909) 606-0080</a></li>
               </ul>
 
@@ -76,24 +76,24 @@
                     <td>Yes</td>
                 </tr>
                 <tr>
-                    <td>Delivery</td> 
-                    <td>No</td>
+                    <td>Payments Accepted</td> 
+                    <td>Cash, Visa, MasterCard and American Express</td>
                 </tr>
+                <tr>
+                    <td>Alcohol</td> 
+                    <td>Beer &amp; Wine</td>
+                </tr>				
                 <tr>
                     <td>Take-out</td> 
                     <td>Yes</td>
-                </tr>
-                <tr>
-                    <td>Accepts Credit Cards</td> 
-                    <td>Yes</td>
-                </tr>
+                </tr>				
                 <tr>
                     <td>Good For</td> 
-                    <td>Dinner</td>
+                    <td>Lunch and Dinner</td>
                 </tr>
                 <tr>
                     <td>Parking</td> 
-                    <td>Private Lot</td>
+                    <td>Free Parking on Private Lot</td>
                 </tr>
                 <tr>
                     <td>Bike Parking</td> 
@@ -120,16 +120,8 @@
                     <td>Average</td>
                 </tr>
                 <tr>
-                    <td>Alcohol</td> 
-                    <td>Beer &amp; Wine Only</td>
-                </tr>
-                <tr>
                     <td>Outdoor Seating</td> 
                     <td>Yes</td>
-                </tr>
-                <tr>
-                    <td>Wi-Fi</td> 
-                    <td>No</td>
                 </tr>
                 <tr>
                     <td>Has TV</td> 
@@ -139,6 +131,10 @@
                     <td>Waiter Service</td> 
                     <td>Yes</td>
                 </tr>
+                <tr>
+                    <td>Delivery</td> 
+                    <td>No</td>
+                </tr>				
                 <tr>
                     <td>Caters</td> 
                     <td>No</td>

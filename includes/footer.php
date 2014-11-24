@@ -14,7 +14,7 @@
               <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/home">Home</a></li>
               <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/menu">Menu</a></li>
               <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/about">About Ichikawa</a></li>
-              <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/contact">Contact us</a></li>
+              <li class=""><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/contact">Contact &amp; Info</a></li>
             </ul>
           </section><!-- Footer1 -->
 
@@ -49,7 +49,6 @@
     </section>
     <!--Copyright-->
     <div class="container toes">
-        <p class="pull-right">Created by Team Alpha.</p>
         <p>&copy; <?php echo date("Y")?> Ichikawa Shabu.</p>
     </div>
 

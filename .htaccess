@@ -3,5 +3,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-l
 
-RewriteRule ^([a-zA-Z0-9]+)$ index.php?l=$1
-RewriteRule ^([a-zA-Z0-9]+)/$ index.php?l=$1
+RewriteRule ^/?(home|menu|about|contact|jpegmenu)$  index.php?l=$1

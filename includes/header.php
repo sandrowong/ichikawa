@@ -10,9 +10,17 @@
     <link rel="icon" href="img/favicon.ico">
     <link href='http://fonts.googleapis.com/css?family=Oxygen:400,700,300' rel='stylesheet' type='text/css'>
     <link href="css/font-awesome.min.css" rel="stylesheet">    
-
     <title>Ichikawa Shabu Fondue &amp; Sushi<? echo $headTitle; ?></title>
+<!--
+Created by
+ ______   ______     ______     __    __        ______     __         ______   __  __     ______    
+/\__  _\ /\  ___\   /\  __ \   /\ "-./  \      /\  __ \   /\ \       /\  == \ /\ \_\ \   /\  __ \   
+\/_/\ \/ \ \  __\   \ \  __ \  \ \ \-./\ \     \ \  __ \  \ \ \____  \ \  _-/ \ \  __ \  \ \  __ \  
+   \ \_\  \ \_____\  \ \_\ \_\  \ \_\ \ \_\     \ \_\ \_\  \ \_____\  \ \_\    \ \_\ \_\  \ \_\ \_\ 
+    \/_/   \/_____/   \/_/\/_/   \/_/  \/_/      \/_/\/_/   \/_____/   \/_/     \/_/\/_/   \/_/\/_/ 
 
+-->
+	
     <!-- CSS, SOON I WILL COMPILE ALL INTO ONE CSS -->
     <link href="css/style.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
@@ -49,7 +57,7 @@
               <li<? echo $homeActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/home">Home</a></li>
               <li<? echo $menuActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/menu">Menu</a></li>
               <li<? echo $aboutActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/about">About Ichikawa</a></li>
-              <li<? echo $contactActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/contact">Contact us</a></li>
+              <li<? echo $contactActive;?>><a href="http://<? echo $_SERVER["HTTP_HOST"];?>/contact">Contact &amp; Info</a></li>
             </ul>
           </div> <!-- End of Navbar Links -->
         </div> <!-- End Container -->
@@ -58,7 +66,7 @@
 
     <section class="container-fluid mobile-nav visible-xs-block">  <!-- Mobile Blocks -->
       <div class="row">
-        <a style="display:block" href="<? echo $_SERVER["PHP_SELF"];?>?l=menu"><div class="col-xs-4 mobile-fav"><i class="fa fa-cutlery"></i><br> MENU</div></a>
+        <a style="display:block" href="http://<? echo $_SERVER["HTTP_HOST"];?>/menu"><div class="col-xs-4 mobile-fav"><i class="fa fa-cutlery"></i><br> MENU</div></a>
         <a style="display:block" href="http://www.yelp.com/biz/ichikawa-shabu-fondue-and-sushi-chino-hills" target="_blank"><div class="col-xs-4 mobile-fav"><i class="fa fa-yelp"></i><br> YELP</div></a>
         <a style="display:block" href="https://www.google.com/maps/place/Ichi+Kawa/@33.9817661,-117.7023749,17z/data=!4m7!1m4!3m3!1s0x80dccd3b4a66067f:0xff160a6060411839!2s4665+Chino+Hills+Pkwy,+Chino+Hills,+CA+91709!3b1!3m1!1s0x0000000000000000:0x78bb4af4ca93c348"><div class="col-xs-4 mobile-fav"><i class="fa fa-location-arrow"></i><br> LOCATION</div></a>
       </div>
