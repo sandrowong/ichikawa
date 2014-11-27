@@ -25,7 +25,7 @@
       <hr class="featurette-divider">
       
       <section class="row featurette bg-feature2"> <!-- menu2 -->
-        <div class="col-md-5 visible-xs-block">
+        <div class="col-md-5 visible-xs-block visible-sm-block">
 		<img class="featurette-image img-responsive" src="img/shabu.jpg" alt="Sushi">
         </div>
         <div class="col-md-7">
@@ -39,7 +39,7 @@
 				A Thai inspired soup base that is refreshing and aromatic.
 			</ul>
         </div>
-        <div class="col-md-5 hidden-xs">
+        <div class="col-md-5 hidden-xs hidden-sm">
     <img class="featurette-image img-responsive" src="img/shabu.jpg" alt="Sushi">
         </div>        
       </section> <!-- End of menu2 -->
@@ -67,7 +67,7 @@
       <hr class="featurette-divider">
       
       <section class="row featurette bg-feature4"> <!-- menu2 -->
-        <div class="col-md-5 visible-xs-block">
+        <div class="col-md-5 visible-xs-block visible-sm-block">
           <img class="featurette-image img-responsive" src="img/menu/dessert1.jpg" alt="Sushi">
         </div>
         <div class="col-md-7">
@@ -77,7 +77,7 @@
 				A type of fried ice cream that uses an Asian style batter for the outside layer coating and once it is fried, the resulting dessert will have a lightly golden crispy outside and a soft creaming inside. 
 			</ul>
         </div>
-        <div class="col-md-5 hidden-xs">
+        <div class="col-md-5 hidden-xs hidden-sm">
           <img class="featurette-image img-responsive" src="img/menu/dessert1.jpg" alt="Sushi">
         </div>        
       </section> <!-- End of menu4 -->

@@ -28,14 +28,14 @@
       <hr class="featurette-divider">
 
       <section class="row featurette bg-feature2"> <!-- feature2.jpg -->
-        <div class="col-md-5 visible-xs-block">
+        <div class="col-md-5 visible-xs-block visible-sm-block">
           <img class="featurette-image img-responsive" src="img/feature2.jpg" alt="Dine for two">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Dine for two!</h2>
           <p class="lead">Your choice of 2 beverages or 1 large beer, 2 appetizers, 2 shabu shabu, and 2 desserts for $46.95 plus tax. Everyday during lunch and dinner!</p>
         </div>
-        <div class="col-md-5 hidden-xs">
+        <div class="col-md-5 hidden-xs hidden-sm">
           <img class="featurette-image img-responsive" src="img/feature2.jpg" alt="Dine for two">
         </div>        
       </section> <!-- End of feature2 -->

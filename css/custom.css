@@ -12,7 +12,7 @@
 }
 
 .main-logo {
-	width: 240px;
+	width: 238px;
 	height: 64px;
 	text-indent: 100%;
 	white-space: nowrap;
@@ -135,7 +135,7 @@
 }
 
 .item:nth-child(1) {
-  background: url("../img/feature01.jpg") no-repeat center;
+  background: url("../img/slide1.jpg") no-repeat center;
   background-size: cover!important;
   -moz-background-size: cover!important;
   -webkit-background-size: cover!important;  
@@ -206,6 +206,10 @@
   height: 100%;
   padding: 1rem 0;
  }
+
+.featurette img {
+  margin: 0 auto;
+}
 
 .bg-feature0 {
   background: url("../img/feature0.jpg") no-repeat center;
@@ -314,7 +318,7 @@ border-bottom: 3px solid #bdb7a4;
 }
 
 .bg-about {
-  background: url("../img/ichikawa.jpg") no-repeat center;
+  background: url("../img/ichikawa_outside.jpg") no-repeat center;
   margin-bottom: 4rem;
   height: 35rem;
   background-size: cover !important;
@@ -344,21 +348,13 @@ border-bottom: 3px solid #bdb7a4;
     font-size: 21px;
     line-height: 1.4;
   }
-
   .featurette-heading {
     font-size: 50px;
   }
 }
 
-@media (min-width: 992px) {
-  .featurette-heading {
-    margin-top: 120px;
-  }
-}
-
 @media (max-width: 768px) {
   .carousel {
-    margin-top: 0;
     height: 300px;
   }
   .carousel .item {
@@ -367,28 +363,28 @@ border-bottom: 3px solid #bdb7a4;
   .carousel-inner > .item > img {
     height: 300px;  
   }
-  .wrap {
-    margin-top: 0;
-  }
-  .bg-about {
-    background: url("../img/ichikawa.jpg") no-repeat -500px;
-  }
 }
 
 @media (max-width: 1024px) {
 	.navbar-nav > li:first-child {
-   		margin-left: 50px;
+   	margin-left: 50px;
 	}
 	.navbar-nav > li > a {
-    	margin-right: 50px;
+    margin-right: 0;
 	}
+  .wrap { 
+    margin-top: 0;
+ }
+ .carousel {
+    margin-top: 0;
+ }
 }
 @media (max-width: 768px) {
 	.navbar-nav > li:first-child {
-   		margin-left: 0;
+   	margin-left: 0;
 	}
 	.navbar-nav > li > a {
-    	margin-right: 0;
+    margin-right: 0;
 	}
 }
 @media (max-width: 359px) {
@@ -397,6 +393,9 @@ border-bottom: 3px solid #bdb7a4;
 	}
 }
 @media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 10%;
+  }
   .menu-heading {
     margin-top: 0px;
   }

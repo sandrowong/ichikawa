@@ -65,6 +65,10 @@
                 <li><strong>Saturday:</strong> 2:30pm to 10:00pm</li>
                 <li><strong>Sunday:</strong> 2:30pm to 9:00pm</li><br>
               </ul>
+            <div><h2>Employment Opportunities</h2></div>
+                <ul class="list-unstyled">
+                    <li>If you are interested in being a part of Ichikawa, we offer many career opportunities. Please click the button below to download our employment form!</li><br>
+                        <p><a class="btn btn-lg btn-primary text-center" href="ichikawa_form.pdf" target="_blank" role="button">Employment Form</a></p>
         </div>
 
         <div class="col-md-6">
