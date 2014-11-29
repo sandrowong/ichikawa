@@ -215,7 +215,7 @@
   background: url("../img/feature0.jpg") no-repeat center;
   background-size: cover!important;
   -moz-background-size: cover!important;
-  -webkit-background-size: cover!important;*/
+  -webkit-background-size: cover!important;
 }
 
 .feature-text {
@@ -232,22 +232,15 @@
 }
 
 .bg-feature2 {
-/*  background: url("../img/feature2.jpg") no-repeat center;
-  background-size: cover!important;
-  -moz-background-size: cover!important;
-  -webkit-background-size: cover!important;*/
 	background: #345681;
 }
 
 .bg-feature3 {
-/*	background: url("../img/store.jpg") no-repeat;
-	background-position: 0px -370px;
-	background-size: 100%;*/
-	background: #682347;
+	background: #CC7733;
 }
 
 .bg-feature4 {
-  background: #A65F19;
+  background: #682347;
 }
 
 .ichi-play {

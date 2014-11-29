@@ -68,7 +68,7 @@
       
       <section class="row featurette bg-feature4"> <!-- menu2 -->
         <div class="col-md-5 visible-xs-block visible-sm-block">
-          <img class="featurette-image img-responsive" src="img/menu/dessert1.jpg" alt="Sushi">
+          <img class="featurette-image img-responsive" src="img/dessert.jpg" alt="Sushi">
         </div>
         <div class="col-md-7">
           <h1 class="featurette-heading menu-heading">Must Try Dessert</h1>
@@ -78,7 +78,7 @@
 			</ul>
         </div>
         <div class="col-md-5 hidden-xs hidden-sm">
-          <img class="featurette-image img-responsive" src="img/menu/dessert1.jpg" alt="Sushi">
+          <img class="featurette-image img-responsive" src="img/dessert.jpg" alt="Sushi">
         </div>        
       </section> <!-- End of menu4 -->
 	  
